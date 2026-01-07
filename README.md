@@ -20,15 +20,18 @@ If you want to run the GUI, your Python distribution must provide `tkinter`.
 uv run gui.py
 ```
 or
-```
+```bash
 python3 gui.py
 ```
 
 ### Train the model
-```
+Warning: The resulting parameters won't be saved if you don't edit the file.
+```bash
+uv run download_dataset.py
 uv run version1.py
 ```
 or
-```
-python3 version1.py
+```bash
+python3 download_dataset.py
+python3 version1.py # Or you can use PyPy for this
 ```
