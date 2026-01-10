@@ -33,5 +33,5 @@ uv run version1.py
 or
 ```bash
 python3 download_dataset.py
-python3 version1.py # Or you can use PyPy for this
+python3 version1.py
 ```
