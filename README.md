@@ -3,7 +3,7 @@
 In this project I'm doing the "Hello World" of neural networks, which is to classify handwritten digits.
 For context, I watched [3Blue1Brown's series on neural networks](https://www.3blue1brown.com/?v=neural-networks) and I implemented "version1" from what I understood.
 It didn't work first try. I had to add a minus sign that I had missed, and some array initializations, but most of the logic, much to my surprise, was right.
-Then the next versions implement better strategies explained in [Michael Nielsen's book](https://neuralnetworksanddeeplearning.com/chap3.html).
+Further versions will implement better strategies explained in [Michael Nielsen's book](https://neuralnetworksanddeeplearning.com/chap3.html).
 
 ## How to run
 
